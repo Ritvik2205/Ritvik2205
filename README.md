@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 `UoE CS and AI sophomore`
+
 `Software developer`
+
 `(wannabe) Quantitative developer`
 <!--
 

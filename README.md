@@ -5,6 +5,8 @@
 `Software developer`
 
 `(wannabe) Quantitative developer`
+
+Python | Java | C | JavaScript | HTML/CSS | Rust | C++ | Haskell | Lean4
 <!--
 
 - 🔭 I’m currently working on ...

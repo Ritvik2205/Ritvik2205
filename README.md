@@ -2,12 +2,11 @@
 
 `cs @ cmu (exchange)`
 
-`UoE CS and AI junior`
+`UoE CS and AI final year`
 
 `Software developer`
 
-`(wannabe) Quantitative developer`
+`Quantitative developer`
 
-Python | Java | C | Typesctipt | JavaScript | MIPS assembly | HTML/CSS | Rust | C++
+Python | Rust | C | Typesctipt | C++ 
 
-![Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritvik2205&theme=github_dark&layout=compact)
